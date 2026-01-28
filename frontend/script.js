@@ -1,6 +1,6 @@
 // ✅ FRONTEND PAYMENT SCRIPT
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://payment-gateway-wgnk.onrender.com";
 
 const paymentForm = document.getElementById("paymentForm");
 const payButton = document.getElementById("payButton");
